@@ -1,0 +1,15 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.btn{
+    border-radius: 5px;
+    width:68px ;
+    height: 37px;
+    font-family: 'Lato', sans-serif;
+}
+.btn:hover{
+    color: rgb(105, 67, 194);
+}
